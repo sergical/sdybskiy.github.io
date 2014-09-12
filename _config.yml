@@ -3,7 +3,7 @@ title: My thoughts on the internet
 email: sdybskiy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Anything and everything I think is worth sharing will go up here
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://sdybskiy.github.io # the base hostname & protocol for your site
 twitter_username: 416serg
 github_username:  sdybskiy
